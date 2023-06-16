@@ -14,16 +14,16 @@
 • DE1-SoC (a robust hardware design platform built around the Altera System-on-Chip (SoC) FPGA, which 
 combines the latest dual-core Cortex-A9 embedded cores with industry-leading programmable logic for 
 ultimate design flexibility)<br>
-![](https://github.com/nainshree-raj/VLSI-domain/blob/main/Block%20diagram.png)
+<!--![](https://github.com/nainshree-raj/VLSI-domain/blob/main/Block%20diagram.png)
 <br>
---> Results :
+ Results :
 <br>
 ![](https://github.com/nainshree-raj/VLSI-domain/blob/main/Screenshot%20(19).png)
 <br>
 ![]()
 <br>
 ![](https://github.com/nainshree-raj/VLSI-domain/blob/main/Screenshot%20(21).png)
-<br>
+<br> -->
 --> Applications :
 <br>
 • Modern data acquisition technology uses real-time communication and advanced networks to monitor aircraft worldwide.
