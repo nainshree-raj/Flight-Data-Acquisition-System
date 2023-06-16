@@ -14,11 +14,16 @@
 • DE1-SoC (a robust hardware design platform built around the Altera System-on-Chip (SoC) FPGA, which 
 combines the latest dual-core Cortex-A9 embedded cores with industry-leading programmable logic for 
 ultimate design flexibility)<br>
---> Block Diagram :<br>
-![](https://github.com/nainshree-raj/Flight-Data-Acquisition-System/blob/main/Screenshot%20(48).png)
 <br>
+--> Block Diagram :<br>
+
+![](https://github.com/nainshree-raj/Flight-Data-Acquisition-System/blob/main/Screenshot%20(48).png)
+
 --> UVM Architecture : <br>
-![]()
+
+![](https://github.com/nainshree-raj/Flight-Data-Acquisition-System/blob/main/Screenshot%20(49).png)
+
+
 <!--
  Results :
 <br>
