@@ -1,7 +1,10 @@
 # Flight-Data-Acquisition-System
                     Design and Verification of Flight Data Acquisition System using UVM (Universal Verification Methodology).
                               
---> The objective : <br>To realize the parallel acquisition function of all kinds of flight data by using the parallel operation mode of FPGA.<br>To study and develop the data acquisition system  to acquire and store the data and analysis of the data.<br>To verify the system using sophisticated verification methodology-UVM.<br>
+--> The objective : <br>
+• To realize the parallel acquisition function of all kinds of flight data by using the parallel operation mode of FPGA.<br>
+• To study and develop the data acquisition system  to acquire and store the data and analysis of the data.<br>
+• To verify the system using sophisticated verification methodology-UVM.<br>
 
 <br>
 --> TOOLS USED (SOFTWARE /HARDWARE)<br>
