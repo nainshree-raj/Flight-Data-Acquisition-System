@@ -26,4 +26,9 @@ ultimate design flexibility)<br>
 <br>
 --> Applications :
 <br>
-![](https://github.com/nainshree-raj/VLSI-domain/blob/main/Screenshot%20(18).png)
+• Modern data acquisition technology uses real-time communication and advanced networks to monitor aircraft worldwide.
+• It is a process of converting real-world signals to the digital domain for display, storage, and analysis.
+• Flight data recorder (FDR) popularly known as “Black Box” in aviation, is an electronic recording device in aircraft to facilitate the investigations of aviation accidents.
+• This allows flight data to be still relayed to crews and inspectors on the ground in the event of an accident.
+• The data recorded in the FDR is used to analyze the electronic systems of the aircraft for safety issues and the investigation of aircraft accidents.
+
